@@ -61,12 +61,13 @@ endfunction
 
 
 ```
-_se muestra en la consola para el ejemplo 1 :_
-![ejemplo1.PNG](practica/Pregunta 1/ejemplo1.PNG)
-_se muestra en la consola:_
-_etapa inicial
+#se muestra en la consola para el ejemplo 1 :
 ![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
-_etapa posterior_ 
+######se muestra en la consola:
+#######etapa inicial
+![pregunta1inicial.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/pregunta1inicial.PNG)
+#######etapa posterior_ 
+![pregunta1posterior.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/pregunta1posterior.PNG)
 
 #### Pregunta 4.a
 #### Pregunta 5.a
