@@ -76,3 +76,8 @@ _se muestra en la consola para la pregunta 1 _
 #### Pregunta 4.a
 #### Pregunta 5.a
 
+## Autor ✒️
+
+* **Olga Lucia Franco** - *1510280* - [olga794](https://github.com/olga794/Taller5p1)
+
+
