@@ -57,7 +57,7 @@ endfunction
 //
 // se muestra en la consola:
 ![Aquí la descripción de la imagen por si no carga]
-(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+(https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNGg)
  
 
 // para aplicar la pregunta 1 
