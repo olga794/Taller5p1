@@ -56,7 +56,7 @@ endfunction
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[-1;1;1],2)
 //
 // se muestra en la consola:
-![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
+![ejemplo1.PNG](practica/Pregunta 1/ejemplo1.PNG)
  
 
 // para aplicar la pregunta 1 
