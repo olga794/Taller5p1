@@ -66,11 +66,11 @@ _se muestra en la consola para el ejemplo 1 :_
 ![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
 ---
 _se muestra en la consola para la pregunta 1 _
-
 * etapa inicial
-![pregunta1inicial.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/pregunta1inicial.PNG)
-
 * etapa posterior
+
+![pregunta1inicial.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/pregunta1inicial.PNG)
+---
 ![pregunta1posterior.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/pregunta1posterior.PNG)
 ---
 #### Pregunta 4.a
