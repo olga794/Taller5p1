@@ -56,17 +56,17 @@ endfunction
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[-1;1;1],2)
 //
 // se muestra en la consola:
-![Aquí la descripción de la imagen por si no carga]
-(https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNGg)
+![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
  
 
 // para aplicar la pregunta 1 
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[1;2;3],2)
 
 
-// se muestra en la consola:
-
-
+//se muestra en la consola:
+// etapa inicial
+![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
+// etapa posterior 
 
 
 
