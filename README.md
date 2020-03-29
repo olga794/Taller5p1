@@ -38,8 +38,7 @@ function MetodoPotencia(M,A,x,Qfi)
     printf('%f  ',x)
     printf(')\n')
 for k = 1:M
-    y=A*x
-   // printf('%f  ',y)  
+    y=A*x   
     r=y(Qfi,1)/x(Qfi,1)
     x = y/(norm(y,%inf))
     printf('k:%d    ',k)
@@ -52,30 +51,22 @@ endfunction
 // como ver los resultados?
 // abrir el archivo y ejecutar el scrip pregunta1.sce
 // escribir en la consola de scilab :
+
 // para ver el ejemplo uno 
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[-1;1;1],2)
-//
-// se muestra en la consola:
-![ejemplo1.PNG](practica/Pregunta 1/ejemplo1.PNG)
- 
+
 
 // para aplicar la pregunta 1 
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[1;2;3],2)
 
 
-//se muestra en la consola:
-// etapa inicial
-![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
-// etapa posterior 
-
-
-
-// como ver los resultados?
-// escribir en la consola de  scilab :
-// A+B+C+D
-// A0+B0
-
 ```
+_se muestra en la consola para el ejemplo 1 :_
+![ejemplo1.PNG](practica/Pregunta 1/ejemplo1.PNG)
+_se muestra en la consola:_
+_etapa inicial
+![ejemplo1.PNG](https://github.com/olga794/Taller5p1/blob/master/practica/Pregunta%201/ejemplo1.PNG)
+_etapa posterior_ 
 
 #### Pregunta 4.a
 #### Pregunta 5.a
