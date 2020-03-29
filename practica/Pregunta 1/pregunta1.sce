@@ -10,8 +10,7 @@ function MetodoPotencia(M,A,x,Qfi)
     printf('%f  ',x)
     printf(')\n')
 for k = 1:M
-    y=A*x
-   // printf('%f  ',y)  
+    y=A*x    
     r=y(Qfi,1)/x(Qfi,1)
     x = y/(norm(y,%inf))
     printf('k:%d    ',k)
@@ -26,12 +25,8 @@ endfunction
 // escribir en la consola de scilab :
 // para ver el ejemplo uno 
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[-1;1;1],2)
-//
-// se muestra en la consola:
 
 // para aplicar la pregunta 1 
 //MetodoPotencia(100,[6,5,-5;2,6,-2;2,5,-1],[1;2;3],2)
 
-
-// se muestra en la consola:
 
